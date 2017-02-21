@@ -1,0 +1,2 @@
+# Yantrix-PROJECT1A
+STACK and QUEUE
