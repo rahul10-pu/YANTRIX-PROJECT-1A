@@ -1,4 +1,4 @@
-# Yantrix-PROJECT1A
+# Yantrix-PROJECT-1A
 STACK and QUEUE
 Project 1A: Stacks and Queues
 
